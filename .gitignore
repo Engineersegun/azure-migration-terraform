@@ -1,0 +1,11 @@
+.terraform/
+*.tfstate*
+.terraform.lock.hcl
+.terraform/
+*.tfstate*
+.terraform.lock.hcl
+.bash_history
+.terraform/
+*.tfstate*
+.terraform.lock.hcl
+.bash_history
