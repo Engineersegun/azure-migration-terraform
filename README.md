@@ -27,5 +27,6 @@ Automated the deployment of a 250GB Linux workload in Azure and successfully mig
 * **Automated Provisioning**: Used Terraform to deploy the target AWS landing zone.
 * **Data Integrity**: Verified the migration of a 220GB primary data disk and a 30GB secondary disk.
 * **Zero Corruption**: Successfully moved 250GB of block-level data using continuous replication.
-* **Cost Management**: Optimized cloud spend by decommissioning Azure resources immediately post-cutover. 
+* **Cost Management**: Optimized cloud spend by decommissioning Azure resources immediately post-cutover.
+* Reduced migration downtim by using continuous data replication
    
